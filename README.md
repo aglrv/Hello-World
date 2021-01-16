@@ -1,5 +1,5 @@
 # Hello-World
 Just my first repository
 
-Hi, nowadays Iam learning new technologies and writing now this words 
-thanks for 
+Hi, Nowadays I am learning new technologies and writing now this words 
+thank you for reading
